@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+develop-eggs/
+parts/
+wheels/
+*.egg-info/
+sdist/
+*.whl
+*.tar.gz
+*.zip
+*.egg
+
+# Environments
+.env
+venv/
+ENV/
+env/
+
+# PyInstaller
+#  Usually these files are built in a dist folder, but if not, block them here
+_MEIPASS*
+#  Exclude the build folder used to make the compiled exe
+build/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+*.junit.xml
+report.txt
+pylint.out
+*.log
+
+# IDEs and editors
+.idea/
+.project
+*.swp
+*.swo
+*.nvim
+*.bak
+*.tmp
+*.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
